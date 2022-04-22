@@ -1,0 +1,103 @@
+/*configuração do header*/
+    header {
+        background: #BBBBBB;
+        padding: 20px 0;
+    }
+
+    .caixa {
+        position: relative;
+        width: 940px;
+        margin: 0 auto;
+    }
+
+    nav {
+        position: absolute;
+        top: 110px;
+        right: 0;
+    }
+
+    nav li {
+        display: inline;
+        margin: 0 0 0 15px;
+    }
+
+    nav a {
+        text-transform: uppercase;
+        color: #000000;
+        font-weight: bold;
+        font-size: 22px;
+        text-decoration: none;
+    }
+
+    nav a:hover {
+        color: #C78C19;
+        text-decoration: underline;
+    }
+
+/*configuração do main*/
+    .principal{
+        width: 940px;
+        margin: auto;
+        padding: 30px 0;
+    }
+
+    .sobre {
+        background: url("img/banner.jpg");
+        
+    }
+
+    h2{
+        text-align: center;
+        font-size: 40px;
+        font-weight: bold;
+        margin: 15px 0;
+        padding: 50px 0;
+    }
+
+    p{
+        font-size: 20px;
+        text-align: center;
+        padding: 8px 0;
+    }
+
+    .missao{
+        font-size: 24px;
+    }
+    
+    em strong{
+        color: rgb(99, 99, 99);
+    }
+
+    .lista-itens {
+        text-align: center;
+        display: inline;
+        vertical-align: top;
+        width: 20%;
+        margin-right: 15%;
+    }
+    .lista-itens li {
+        font-size: 20px;
+        padding: 8px 0;
+    }
+
+    .bene {
+        background: url("img/beneficioss.jpg");
+    }
+    
+    .beneficios{
+        width: 940px;
+        margin: auto;
+        padding: 30px 0;
+    }
+
+/*configuração do fooder*/
+    footer {
+        text-align: center;
+        background: url("img/bg.jpg");
+        padding: 30px 0;
+    }
+    .copyright {
+        color: #FFFFFF;
+        font-size: 13px;
+        margin: 20px 0 0;
+    }
