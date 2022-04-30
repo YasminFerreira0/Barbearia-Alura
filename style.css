@@ -1,8 +1,8 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
-/*CONFIGURA«√O DA P¡GINA PRODUTOS*/
-/*configuraÁ„o header*/
+/*CONFIGURA√á√ÉO DA P√ÅGINA PRODUTOS*/
+/*configura√ß√£o header*/
 
 header {
     background: #BBBBBB;
@@ -39,7 +39,7 @@ nav a:hover {
     text-decoration: underline;
 }
 
-/*configuraÁ„o main*/
+/*configura√ß√£o main*/
 
 .produtos{
     width: 940px;
@@ -86,7 +86,7 @@ nav a:hover {
     margin-top: 10px;
 }
 
-/*ConfiguraÁ„o do RodapÈ*/
+/*Configura√ß√£o do Rodap√©*/
 
 footer {
     text-align: center;
@@ -99,8 +99,8 @@ footer {
     margin: 20px 0 0;
 }
 
-/*CONFIGURA«√O DA P¡GINA CONTATO*/
-/*configuraÁ„o do formulario*/
+/*CONFIGURA√á√ÉO DA P√ÅGINA CONTATO*/
+/*configura√ß√£o do formulario*/
 
 
 form {
@@ -155,7 +155,7 @@ td, th {
     padding: 8px 15px;
 }
 
-/*CSS da pagina inicial*/
+/*CSS da p√°gina inicial*/
 .banner {
     width: 100%;
 }
