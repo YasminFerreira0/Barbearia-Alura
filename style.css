@@ -165,6 +165,7 @@ td, th {
     font-size: 2em;
     margin: 0 0 1em;
     clear: left;
+    color: rgb(0,0,0,0.3);
 }
 
 .principal {
@@ -238,6 +239,11 @@ td, th {
 
 .imgbeneficios {
     width: 60%;
+    opacity: 0.3;
+    transition: 400ms;
+}
+.imgbeneficios:hover {
+    opacity: 1;
 }
 
 .video{
